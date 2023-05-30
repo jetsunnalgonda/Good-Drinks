@@ -30,7 +30,7 @@ To get started with Good Drinks, follow these steps:
 
 ## Contributing
 
-We welcome contributions to enhance the functionality of Good Drinks. To contribute, please follow these steps:
+I welcome contributions to enhance the functionality of Good Drinks. To contribute, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
