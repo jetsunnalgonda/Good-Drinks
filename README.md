@@ -7,8 +7,6 @@ Good Drinks is an Android application that provides a collection of cocktail rec
 - Browse a diverse range of cocktail recipes.
 - View detailed information about each drink, including ingredients and instructions.
 - Search for specific drinks based on name or ingredients.
-- Save favorite drinks for quick access later.
-- Share drink recipes with friends via social media or messaging apps.
 
 ## Technologies Used
 
@@ -16,8 +14,11 @@ Good Drinks is an Android application that provides a collection of cocktail rec
 - Android Studio: The integrated development environment (IDE) used for building and testing the app.
 - REST API: The app interacts with a backend API to fetch and retrieve drink data.
 - Glide: A powerful image loading and caching library used for displaying drink images.
-- RecyclerView: Used to display a list of drinks in a scrollable and efficient manner.
 - SQLite Database: Stores user's favorite drinks for offline access.
+
+## Features for later versions
+- Save favorite drinks for quick access later.
+- Share drink recipes with friends via social media or messaging apps.
 
 ## Getting Started
 
