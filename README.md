@@ -39,3 +39,13 @@ We welcome contributions to enhance the functionality of Good Drinks. To contrib
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+
+## Author
+
+- [@jetsunnalgonda](https://www.github.com/jetsunnalgonda)
+
+Programmed by Haluk Isik.
+
+May 2023
+
